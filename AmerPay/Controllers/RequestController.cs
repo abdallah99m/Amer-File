@@ -10,7 +10,7 @@ namespace AmerPay.Controllers
     public class RequestController : Controller
     {
         private readonly IWebHostEnvironment _hostEnvironment;
-        private const string EncryptionKey = "z3*&^kljxv(%kjl%$#jh687";
+        private const string EncryptionKey = "z3$#jh687";
         private readonly ApplicationDbContext _db ;
         public RequestController(IWebHostEnvironment hostEnvironment, ApplicationDbContext db)
         {
