@@ -1,0 +1,15 @@
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\bin\Debug\net6.0\AmerPay.DataAccess.deps.json
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\bin\Debug\net6.0\AmerPay.DataAccess.dll
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\bin\Debug\net6.0\AmerPay.DataAccess.pdb
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\bin\Debug\net6.0\AmerPay.Models.dll
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\bin\Debug\net6.0\AmerPay.Models.pdb
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.csproj.AssemblyReference.cache
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.AssemblyInfoInputs.cache
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.AssemblyInfo.cs
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.csproj.CopyComplete
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.dll
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\refint\AmerPay.DataAccess.dll
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\AmerPay.DataAccess.pdb
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.DataAccess\obj\Debug\net6.0\ref\AmerPay.DataAccess.dll

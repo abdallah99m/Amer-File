@@ -1,0 +1,12 @@
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\bin\Debug\net6.0\AmerPay.Models.deps.json
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\bin\Debug\net6.0\AmerPay.Models.dll
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\bin\Debug\net6.0\AmerPay.Models.pdb
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\AmerPay.Models.csproj.AssemblyReference.cache
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\AmerPay.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\AmerPay.Models.AssemblyInfoInputs.cache
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\AmerPay.Models.AssemblyInfo.cs
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\AmerPay.Models.csproj.CoreCompileInputs.cache
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\AmerPay.Models.dll
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\refint\AmerPay.Models.dll
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\AmerPay.Models.pdb
+C:\Users\abdallah\Desktop\AmerPay\AmerPay.Models\obj\Debug\net6.0\ref\AmerPay.Models.dll
