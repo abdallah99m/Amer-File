@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BYE4394hLRxfFjaWUjTQzaOsIwBtz3yS2Bcoz9ZD5/I=",
+  "Hash": "vsFuHr0dJ2bD9PQxZOVbucTZj9cC4jLBd10sxVTgzvo=",
   "Source": "AmerPay",
   "BasePath": "_content/AmerPay",
   "Mode": "Default",
@@ -1222,6 +1222,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Files\\5f869b22-89f8-4763-b2e8-30598e1b7715abdallah15.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192.pdf",
+      "SourceId": "AmerPay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "BasePath": "_content/AmerPay",
+      "RelativePath": "Files/7958dfa1-459b-4223-adfd-d46a79932192.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192abdallah15.pdf",
+      "SourceId": "AmerPay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "BasePath": "_content/AmerPay",
+      "RelativePath": "Files/7958dfa1-459b-4223-adfd-d46a79932192abdallah15.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192abdallah15.pdf"
     },
     {
       "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\8be63629-aec4-43de-a545-7c1596db759babdallah15.pdf",
