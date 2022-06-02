@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tYf3m6rCRlSScpm0626Cs0I27mj2wArlY/XFXFSk4uyUCDnii0ZWavYyc7lRMHzBWPdryK1KKEeobt/gtUl5YA==",
+  "dgSpecHash": "Hgf6CIR2DVNh2NQMmDugjMbKk/RROzFlW6oYCvOtKXJjXf7RVN1cuj+mi7wOIK/PIJvh1Lky07I199WhZizA2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.Models\\AmerPay.Models.csproj",
+  "projectFilePath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.Models\\AmerPay.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdallah\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\abdallah\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

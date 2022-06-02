@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vsFuHr0dJ2bD9PQxZOVbucTZj9cC4jLBd10sxVTgzvo=",
+  "Hash": "TIuNjH1pNuHm/C8vIDc25RN+8vfiJ2xCkfmnBmJ0aqA=",
   "Source": "AmerPay",
   "BasePath": "_content/AmerPay",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "AmerPay\\wwwroot",
       "Source": "AmerPay",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\abdallah\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AmerPay.styles.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AmerPay.styles.css",
       "SourceId": "AmerPay",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "AmerPay.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AmerPay.styles.css"
+      "OriginalItemSpec": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AmerPay.styles.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AmerPay.bundle.scp.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AmerPay.bundle.scp.css",
       "SourceId": "AmerPay",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "AmerPay.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AmerPay.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AmerPay.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\css\\site.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\favicon.ico",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\0b56540f-fbbe-4c17-8253-1ea455f19280abdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\0b56540f-fbbe-4c17-8253-1ea455f19280abdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/0b56540f-fbbe-4c17-8253-1ea455f19280abdallah.pdf",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\0b56540f-fbbe-4c17-8253-1ea455f19280abdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\2165a288-6d43-4b49-a8d9-7df6e1b94d9fabdallah15.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\2165a288-6d43-4b49-a8d9-7df6e1b94d9fabdallah15.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/2165a288-6d43-4b49-a8d9-7df6e1b94d9fabdallah15.pdf",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\2165a288-6d43-4b49-a8d9-7df6e1b94d9fabdallah15.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\2384e2c7-0823-49b2-8582-fe91b460697cabdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\2384e2c7-0823-49b2-8582-fe91b460697cabdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/2384e2c7-0823-49b2-8582-fe91b460697cabdallah.pdf",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\2384e2c7-0823-49b2-8582-fe91b460697cabdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\30d43cba-2393-4047-80bf-921e399d7699abdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\30d43cba-2393-4047-80bf-921e399d7699abdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/30d43cba-2393-4047-80bf-921e399d7699abdallah.pdf",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\30d43cba-2393-4047-80bf-921e399d7699abdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\549fe091-9d06-4cb7-b6eb-71284e9b9b20.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\549fe091-9d06-4cb7-b6eb-71284e9b9b20.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/549fe091-9d06-4cb7-b6eb-71284e9b9b20.pdf",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\549fe091-9d06-4cb7-b6eb-71284e9b9b20.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\549fe091-9d06-4cb7-b6eb-71284e9b9b20abdallah15.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\549fe091-9d06-4cb7-b6eb-71284e9b9b20abdallah15.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/549fe091-9d06-4cb7-b6eb-71284e9b9b20abdallah15.pdf",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\549fe091-9d06-4cb7-b6eb-71284e9b9b20abdallah15.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\5f869b22-89f8-4763-b2e8-30598e1b7715abdallah15.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\5f869b22-89f8-4763-b2e8-30598e1b7715abdallah15.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/5f869b22-89f8-4763-b2e8-30598e1b7715abdallah15.pdf",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\5f869b22-89f8-4763-b2e8-30598e1b7715abdallah15.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/7958dfa1-459b-4223-adfd-d46a79932192.pdf",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192abdallah15.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192abdallah15.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/7958dfa1-459b-4223-adfd-d46a79932192abdallah15.pdf",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\7958dfa1-459b-4223-adfd-d46a79932192abdallah15.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\8be63629-aec4-43de-a545-7c1596db759babdallah15.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\8be63629-aec4-43de-a545-7c1596db759babdallah15.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/8be63629-aec4-43de-a545-7c1596db759babdallah15.pdf",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\8be63629-aec4-43de-a545-7c1596db759babdallah15.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\a8258d44-7f44-45c5-8d94-b028d80aa161abdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\a8258d44-7f44-45c5-8d94-b028d80aa161abdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/a8258d44-7f44-45c5-8d94-b028d80aa161abdallah.pdf",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\a8258d44-7f44-45c5-8d94-b028d80aa161abdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\b39abd66-a019-4f80-a291-79915982abefabdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\b39abd66-a019-4f80-a291-79915982abefabdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/b39abd66-a019-4f80-a291-79915982abefabdallah.pdf",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\b39abd66-a019-4f80-a291-79915982abefabdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\ba8ed194-1fc7-4b85-81de-cd32dd7d4f5dabdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\ba8ed194-1fc7-4b85-81de-cd32dd7d4f5dabdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/ba8ed194-1fc7-4b85-81de-cd32dd7d4f5dabdallah.pdf",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\ba8ed194-1fc7-4b85-81de-cd32dd7d4f5dabdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\c715299a-3499-417b-9d0e-9b5f69a6c1aaabdallah15.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\c715299a-3499-417b-9d0e-9b5f69a6c1aaabdallah15.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/c715299a-3499-417b-9d0e-9b5f69a6c1aaabdallah15.pdf",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\c715299a-3499-417b-9d0e-9b5f69a6c1aaabdallah15.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\cf303b72-655c-4bd5-9154-a51642d26b86abdallah15.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\cf303b72-655c-4bd5-9154-a51642d26b86abdallah15.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/cf303b72-655c-4bd5-9154-a51642d26b86abdallah15.pdf",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\cf303b72-655c-4bd5-9154-a51642d26b86abdallah15.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\d6c03719-4bff-4095-bd0d-a4b2ad842f90abdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\d6c03719-4bff-4095-bd0d-a4b2ad842f90abdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/d6c03719-4bff-4095-bd0d-a4b2ad842f90abdallah.pdf",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\d6c03719-4bff-4095-bd0d-a4b2ad842f90abdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\Files\\f57e5125-a062-4363-b413-4265ab1b7fccabdallah.pdf",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\Files\\f57e5125-a062-4363-b413-4265ab1b7fccabdallah.pdf",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "Files/f57e5125-a062-4363-b413-4265ab1b7fccabdallah.pdf",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Files\\f57e5125-a062-4363-b413-4265ab1b7fccabdallah.pdf"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\js\\site.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AmerPay",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\wwwroot\\",
       "BasePath": "_content/AmerPay",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

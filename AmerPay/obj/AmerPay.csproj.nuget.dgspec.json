@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\AmerPay.csproj": {}
+    "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\AmerPay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj": {
+    "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj",
         "projectName": "AmerPay.DataAccess",
-        "projectPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj",
+        "projectPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj",
         "packagesPath": "C:\\Users\\abdallah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.Models\\AmerPay.Models.csproj": {
-                "projectPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.Models\\AmerPay.Models.csproj"
+              "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.Models\\AmerPay.Models.csproj": {
+                "projectPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.Models\\AmerPay.Models.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.Models\\AmerPay.Models.csproj": {
+    "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.Models\\AmerPay.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.Models\\AmerPay.Models.csproj",
+        "projectUniqueName": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.Models\\AmerPay.Models.csproj",
         "projectName": "AmerPay.Models",
-        "projectPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.Models\\AmerPay.Models.csproj",
+        "projectPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.Models\\AmerPay.Models.csproj",
         "packagesPath": "C:\\Users\\abdallah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.Models\\obj\\",
+        "outputPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\AmerPay.csproj": {
+    "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\AmerPay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\AmerPay.csproj",
+        "projectUniqueName": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\AmerPay.csproj",
         "projectName": "AmerPay",
-        "projectPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\AmerPay.csproj",
+        "projectPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\AmerPay.csproj",
         "packagesPath": "C:\\Users\\abdallah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay\\obj\\",
+        "outputPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,8 +176,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\abdallah\\Desktop\\AmerPay\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj"
+              "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\abdallah\\Desktop\\Amer-File\\AmerPay.DataAccess\\AmerPay.DataAccess.csproj"
               }
             }
           }
