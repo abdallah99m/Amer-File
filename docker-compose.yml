@@ -5,14 +5,14 @@ services:
   db:
     image: mcr.microsoft.com/mssql/server:2019-latest
     ports:
-      - 1433:1433
+      - 14333:1433
     # volumes:
     #   - ~/apps/mssql/data:/var/lib/mssqlql/data
     volumes:
       - ./db-data:/var/opt/mssql
     environment:
       - ACCEPT_EULA=Y
-      - SA_PASSWORD=123@Qwe
+      - SA_PASSWORD=P@ssw0rd
 
   api:
     build:
