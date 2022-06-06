@@ -7,7 +7,7 @@ services:
     ports:
       - 14333:1433
     volumes:
-      - ./db-data/var/lib/mssqlql/data
+      - ./db-data/:/var/lib/mssqlql/data
     # volumes:
     #   - ./db-data:/var/opt/mssql
     environment:
