@@ -20,6 +20,6 @@ services:
       dockerfile: ./AmerPay/Dockerfile
     # restart: always
     ports:
-      - 9902:9902
+      - 80:80
     depends_on:
       - db
