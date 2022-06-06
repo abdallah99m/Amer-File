@@ -4,7 +4,7 @@
 ### for mssql db
 - make sure docker is installed
 - git clone <repo>
-- docker-compose -f docker-compose-mssql.yml up -d --build
+- docker-compose -f docker-compose.yml up -d --build
 
 ### rebuild docker-compose file after changes
 - docker-compose -f docker-compose.yml up -d --build
